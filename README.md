@@ -1,1 +1,1 @@
-# add_to_playlist.py
+This is the repo for my python script that adds songs from a csv into spotify playlist
